@@ -1,0 +1,21 @@
+.header{
+  width: 100%;
+  background-color: rgba(102, 164, 221, 0.761);
+  border-bottom: solid 1px #3849eacf ;
+}
+.menu{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+list-style: none;
+align-items: center;
+justify-content: space-between;
+}
+.log{
+  height: 2rem;
+}
+.menu li{
+  font-weight: 600;
+  padding: 5px;
+  text-align: center;
+}
